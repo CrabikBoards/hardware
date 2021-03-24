@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name nRF52810-QCxx)(type Legacy)(uri ${KIPRJMOD}/libs/nRF52810-QCxx.lib)(options "")(descr ""))
+  (lib (name Diodes_Inc_AP2210N-3.3TRG)(type Legacy)(uri ${KIPRJMOD}/libs/Diodes_Inc_AP2210N-3.3TRG.lib)(options "")(descr ""))
+  (lib (name CH55xE)(type Legacy)(uri ${KIPRJMOD}/libs/CH55xE.lib)(options "")(descr ""))
+)

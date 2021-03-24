@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name ANT9520)(type KiCad)(uri ${KIPRJMOD}/libs/ANT9520.pretty)(options "")(descr ""))
+  (lib (name TYPE-C16PIN)(type KiCad)(uri ${KIPRJMOD}/libs/TYPE-C16PIN.pretty)(options "")(descr ""))
+  (lib (name TS-1088R-02526)(type KiCad)(uri ${KIPRJMOD}/libs/TS-1088R-02526.pretty)(options "")(descr ""))
+  (lib (name SparkFun-Connectors)(type KiCad)(uri ${KIPRJMOD}/libs/SparkFun-Connectors.pretty)(options "")(descr ""))
+  (lib (name Boards)(type KiCad)(uri ${KIPRJMOD}/libs/Boards.pretty)(options "")(descr ""))
+  (lib (name OSHW-Logo)(type KiCad)(uri ${KIPRJMOD}/libs/OSHW-Logo.pretty)(options "")(descr ""))
+)

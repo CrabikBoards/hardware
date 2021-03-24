@@ -1,0 +1,31 @@
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+
+/production
+/buzzard_labels.pretty
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+crabik_panel.*
+crabik-rescue.dcm
+crabik-cache.lib
+*~
+_autosave-*
+*.tmp
+.DS_Store
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+.dsn
+
+# Exported BOM files
+*.xml
+*.csv
+*.ods
+
+remap.json

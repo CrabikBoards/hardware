@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2210N-3.3TRG
+D 150mA low dropout linear regulator, wide input voltage range, 3.3V fixed positive output, SOT-89-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP2204.pdf
+$ENDCMP
+#
+#End Doc Library

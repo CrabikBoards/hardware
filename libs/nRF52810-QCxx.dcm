@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP nRF52810-QCxx
+K MCU, ARM, BLE, ANT, 2.4GHz
+$ENDCMP
+#
+#End Doc Library
