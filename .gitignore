@@ -1,6 +1,6 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
-/production
+# /production
 /buzzard_labels.pretty
 
 # Temporary files
